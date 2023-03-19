@@ -5,14 +5,14 @@
 </p>
 <div align="middle">
 
-  [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=lmartinhao&count_private=true&show_icons=true&theme=dracula)](https://github.com/lmartinhao)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lmartinhao&layout=compact&theme=dracula&langs_count=6&hide=jupyter%20notebook,tex,makefile,shell)](https://github.com/lmartinhao)
+  [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=victor-pagnozi&count_private=true&show_icons=true&theme=dracula)](https://github.com/victor-pagnozi)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victor-pagnozi&layout=compact&theme=dracula&langs_count=6&hide=jupyter%20notebook,tex,makefile,shell)](https://github.com/victor-pagnozi)
     
-  ![github contribution grid snake animation](https://raw.githubusercontent.com/lmartinhao/lmartinhao/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+  ![github contribution grid snake animation](https://raw.githubusercontent.com/victor-pagnozi/victor-pagnozi/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Lola-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg">
+  <!-- <img align="center" alt="Lola-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg">
   <img align="center" alt="Lola-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg">
   <img align="center" alt="Lola-sass" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
   <img align="center" alt="Lola-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -31,7 +31,7 @@
   
   
   
-  <img align="right" alt="Lola-pic" height="115" src="https://i.ibb.co/Bq3Bsw9/rounded-in-photoretrica.png">
+  <img align="right" alt="Lola-pic" height="115" src="https://i.ibb.co/Bq3Bsw9/rounded-in-photoretrica.png"> -->
 </div>
   
   ##
