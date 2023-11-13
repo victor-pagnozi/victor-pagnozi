@@ -26,10 +26,12 @@
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Logo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Logo-typescript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Logo-nodejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Logo-react" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
   <img align="center" alt="Logo-next" height="30" width="30" src="https://www.datocms-assets.com/75941/1657707878-nextjs_logo.png">
-  <img align="center" alt="Logo-nest" height="30" width="35" src="https://static-00.iconduck.com/assets.00/nestjs-icon-512x510-9nvpcyc3.png">
+  <img align="center" alt="Logo-nest" height="30" width="32" src="https://static-00.iconduck.com/assets.00/nestjs-icon-512x510-9nvpcyc3.png">
+  <img align="center" alt="Logo-nest" height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/919/919853.png">
   <img align="center" alt="Logo-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg">
   <img align="center" alt="Logo-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg">
   <img align="center" alt="Logo-sass" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
@@ -38,7 +40,6 @@
   <img align="center" alt="Logo-Webpack" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-plain.svg">
   <img align="center" alt="Logo-postgresql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg">
   <img align="center" alt="Logo-heroku" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain.svg">
-  <img align="center" alt="Logo-typescript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg">
   
   <img align="right" alt="Profile-picture" height="115" src="https://media.licdn.com/dms/image/D4D03AQFlWhQg8v7FbQ/profile-displayphoto-shrink_800_800/0/1695854799718?e=1705536000&v=beta&t=mA8qyYbn-HpEL9IsOjZv0H9VgABRbJF6YBXyk8xYq0s">
 </div>
