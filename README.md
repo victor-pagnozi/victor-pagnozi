@@ -31,12 +31,12 @@
   <img align="center" alt="Logo-nodejs" height="34" width="30" src="https://static-00.iconduck.com/assets.00/node-js-icon-1901x2048-mk1e13df.png">
   <img align="center" alt="Logo-next" height="32" width="32" src="https://www.datocms-assets.com/75941/1657707878-nextjs_logo.png">
   <img align="center" alt="Logo-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg">
-  <img align="center" alt="Logo-nest" height="32" width="34" src="https://static-00.iconduck.com/assets.00/nestjs-icon-512x510-9nvpcyc3.png">
+  <img align="center" alt="Logo-nest" height="35" width="34" src="https://static-00.iconduck.com/assets.00/nestjs-icon-512x510-9nvpcyc3.png">
   <img align="center" alt="Logo-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg">
   <img align="center" alt="Logo-docker" height="32" width="32" src="https://cdn-icons-png.flaticon.com/512/919/919853.png">
   <img align="center" alt="Logo-sass" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
   <img align="center" alt="Logo-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  <img align="center" alt="Logo-Angular" height="33" width="33" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/21_Angular_logo_logos-512.png">
+  <img align="center" alt="Logo-Angular" height="35" width="32" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/21_Angular_logo_logos-512.png">
   <img align="center" alt="Logo-tailwind" height="30" width="40" src="https://static-00.iconduck.com/assets.00/tailwind-css-icon-2048x1229-u8dzt4uh.png">
   <img align="center" alt="Logo-Ionic" height="30" width="33" src="https://www.svgrepo.com/show/353912/ionic-icon.svg">
   <img align="center" alt="Logo-postgresql" height="32" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg">
