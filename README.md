@@ -12,7 +12,7 @@
 
 </div>
 <div style="display: inline_block"><br>
-  <!-- <img align="center" alt="Lola-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg">
+  <img align="center" alt="Lola-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg">
   <img align="center" alt="Lola-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg">
   <img align="center" alt="Lola-sass" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
   <img align="center" alt="Lola-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -29,9 +29,7 @@
   <img align="center" alt="Lola-nodejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Lola-nodejs" height="30" width="40" src="https://www.datocms-assets.com/75941/1657707878-nextjs_logo.png">
   
-  
-  
-  <img align="right" alt="Lola-pic" height="115" src="https://i.ibb.co/Bq3Bsw9/rounded-in-photoretrica.png"> -->
+  <img align="right" alt="Lola-pic" height="115" src="https://i.ibb.co/Bq3Bsw9/rounded-in-photoretrica.png">
 </div>
   
   ##
