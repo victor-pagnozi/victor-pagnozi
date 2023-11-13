@@ -8,7 +8,11 @@
   [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=victor-pagnozi&count_private=true&show_icons=true&theme=dracula)](https://github.com/victor-pagnozi)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victor-pagnozi&layout=compact&theme=dracula&langs_count=6&hide=jupyter%20notebook,tex,makefile,shell)](https://github.com/victor-pagnozi)
     
-  ![github contribution grid snake animation](https://raw.githubusercontent.com/victor-pagnozi/victor-pagnozi/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+  ![github contribution grid snake animation]<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 
 </div>
 <div style="display: inline_block"><br>
@@ -26,7 +30,7 @@
   <img align="center" alt="Logo-heroku" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain.svg">
   <img align="center" alt="Logo-typescript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg">
   
-  <img align="right" alt="Lola-pic" height="115" src="https://media.licdn.com/dms/image/D4D03AQFlWhQg8v7FbQ/profile-displayphoto-shrink_800_800/0/1695854799718?e=1705536000&v=beta&t=mA8qyYbn-HpEL9IsOjZv0H9VgABRbJF6YBXyk8xYq0s">
+  <img align="right" alt="Profile-picture" height="115" src="https://media.licdn.com/dms/image/D4D03AQFlWhQg8v7FbQ/profile-displayphoto-shrink_800_800/0/1695854799718?e=1705536000&v=beta&t=mA8qyYbn-HpEL9IsOjZv0H9VgABRbJF6YBXyk8xYq0s">
 </div>
   
   ##
