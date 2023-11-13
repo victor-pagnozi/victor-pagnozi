@@ -27,8 +27,9 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Logo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Logo-nodejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-  Focus:   <img align="center" alt="Logo-react" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-  <img align="center" alt="Logo-nodejs" height="30" width="30" src="https://www.datocms-assets.com/75941/1657707878-nextjs_logo.png">
+  <img align="center" alt="Logo-react" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+  <img align="center" alt="Logo-next" height="30" width="30" src="https://www.datocms-assets.com/75941/1657707878-nextjs_logo.png">
+  <img align="center" alt="Logo-nest" height="30" width="40" src="https://static-00.iconduck.com/assets.00/nestjs-icon-512x510-9nvpcyc3.png">
   <img align="center" alt="Logo-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg">
   <img align="center" alt="Logo-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg">
   <img align="center" alt="Logo-sass" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
