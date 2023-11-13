@@ -8,11 +8,20 @@
   [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=victor-pagnozi&count_private=true&show_icons=true&theme=dracula)](https://github.com/victor-pagnozi)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victor-pagnozi&layout=compact&theme=dracula&langs_count=6&hide=jupyter%20notebook,tex,makefile,shell)](https://github.com/victor-pagnozi)
     
-  ![github contribution grid snake animation]<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      alt="github contribution grid snake animation"
+      src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+    />
+  </picture>
 
 </div>
 <div style="display: inline_block"><br>
