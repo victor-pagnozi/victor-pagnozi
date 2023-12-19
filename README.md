@@ -5,7 +5,7 @@
 </p>
 <div align="middle">
 
-  [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=victor-pagnozi&include_all_commits=true&show_icons=true&theme=dracula)](https://github.com/victor-pagnozi)
+  [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=victor-pagnozi&show_icons=true&theme=dracula)](https://github.com/victor-pagnozi)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victor-pagnozi&layout=compact&theme=dracula&langs_count=6&hide=jupyter%20notebook,tex,makefile,shell)](https://github.com/victor-pagnozi)
     
   <picture>
