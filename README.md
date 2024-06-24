@@ -30,6 +30,7 @@
   <img align="center" alt="Logo-react" height="32" width="41" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
   <img align="center" alt="Logo-nodejs" height="34" width="30" src="https://static-00.iconduck.com/assets.00/node-js-icon-1901x2048-mk1e13df.png">
   <img align="center" alt="Logo-next" height="32" width="32" src="https://www.datocms-assets.com/75941/1657707878-nextjs_logo.png">
+  <img align="center" alt="Logo-python" height="32" width="32" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FPython_%2528programming_language%2529&psig=AOvVaw2oxMXM2UhwH-7eThn-AbzP&ust=1719348453283000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKDpmaeO9YYDFQAAAAAdAAAAABAE">
   <img align="center" alt="Logo-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg">
   <img align="center" alt="Logo-nest" height="35" width="34" src="https://static-00.iconduck.com/assets.00/nestjs-icon-512x510-9nvpcyc3.png">
   <img align="center" alt="Logo-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg">
