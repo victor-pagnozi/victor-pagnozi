@@ -45,6 +45,7 @@
   <img align="center" alt="Logo-rabbitmq" height="33" width="32" src="https://static-00.iconduck.com/assets.00/rabbitmq-icon-484x512-s9lfaapn.png">
   <img align="center" alt="Logo-elastic-search" height="33" width="32" src="https://static-00.iconduck.com/assets.00/elasticsearch-icon-1839x2048-s0i8mk51.png">
   <img align="center" alt="Logo Redis" height="33" width="32" src="https://cdn4.iconfinder.com/data/icons/redis-2/1451/Untitled-2-512.png">
+  <img align="center" alt="Logo Vespa AI" height="33" width="32" src="https://cdn.prod.website-files.com/625447c67b621ab49bb7e3e5/6511e68d71dde8ad923a245f_64cbec10b711c416c4869003_3j8entjr_400x400.png">
   
 </div>
   
