@@ -42,8 +42,10 @@
   <img align="center" alt="Logo-Ionic" height="30" width="33" src="https://www.svgrepo.com/show/353912/ionic-icon.svg">
   <img align="center" alt="Logo-postgresql" height="32" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg">
   <img align="center" alt="Logo-mongo" height="33" width="32" src="https://www.svgrepo.com/show/331488/mongodb.svg">
+  <img align="center" alt="Logo-rabbitmq" height="33" width="32" src="https://static-00.iconduck.com/assets.00/rabbitmq-icon-484x512-s9lfaapn.png">
+  <img align="center" alt="Logo-elastic-search" height="33" width="32" src="https://static-00.iconduck.com/assets.00/elasticsearch-icon-1839x2048-s0i8mk51.png">
+  <img align="center" alt="Logo Redis" height="33" width="32" src="https://cdn4.iconfinder.com/data/icons/redis-2/1451/Untitled-2-512.png">
   
-  <img align="right" alt="Profile-picture" height="115" src="https://media.licdn.com/dms/image/D4D03AQFlWhQg8v7FbQ/profile-displayphoto-shrink_800_800/0/1695854799718?e=1705536000&v=beta&t=mA8qyYbn-HpEL9IsOjZv0H9VgABRbJF6YBXyk8xYq0s">
 </div>
   
   ##
