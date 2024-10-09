@@ -1,8 +1,3 @@
-## Olá, eu sou o Victor, dev fullstack com foco em JS, mas sempre pesquisando tudo relacionado ao mundo tech! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Bem+vindos+ao+meu+Github;++;Fullstack+dev+%3C/%3E;JS+enthusiast;Always+learning+!"></a>
-</p>
 <div align="middle">
 
   [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=victor-pagnozi&show_icons=true&theme=dracula)](https://github.com/victor-pagnozi)
